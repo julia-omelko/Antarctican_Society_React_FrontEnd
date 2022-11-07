@@ -1,5 +1,9 @@
 /node_modules
 /vendor
+#/public/build
+#/public/hot
+#/storage/*.key
+#/public/storage
 .env
 .env.backup
 .phpunit.result.cache
